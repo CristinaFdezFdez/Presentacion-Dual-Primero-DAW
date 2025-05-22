@@ -14,8 +14,8 @@
 
 ## 📁 Presentaciones
 
-- [`presentacion_comun.pdf`](https://www.canva.com/design/DAGn9kcxgtg/dGrGwVueLEWerYawlSBh4g/edit?utm_content=DAGn9kcxgtg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) → Presentación común de la empresa  
-- [`presentacion_individual.pdf`](https://www.canva.com/design/DAGmqUqxlvc/hEYAghyLjLwrTqjmXyiAYw/edit?utm_content=DAGmqUqxlvc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) → Presentación individual 
+- [`presentacion_comun`](https://www.canva.com/design/DAGn9kcxgtg/dGrGwVueLEWerYawlSBh4g/edit?utm_content=DAGn9kcxgtg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) → Presentación común de la empresa  
+- [`presentacion_individual`](https://www.canva.com/design/DAGmqUqxlvc/hEYAghyLjLwrTqjmXyiAYw/edit?utm_content=DAGmqUqxlvc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) → Presentación individual 
 
 
 ---
