@@ -33,6 +33,3 @@
 
 ![Logo VIEWNEXT](imagenes/logo-viewnext.png)  
 ![Logo Instituto](imagenes/logo-instituto.png)
-
-![Logo VIEWNEXT](imagenes/logo-viewnext.png)  
-![Logo Instituto](imagenes/logo-instituto.png)
