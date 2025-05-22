@@ -1,8 +1,4 @@
 # 📄 Presentación Formación Dual – Cristina Fernández
-
-![Logo VIEWNEXT](imagenes/logo-viewnext.png)  
-![Logo Instituto](imagenes/logo-instituto.png)
-
 ---
 
 ## 👩‍💻 Alumna
@@ -31,3 +27,12 @@
 - Herramientas utilizadas  
 - Conocimientos adquiridos por módulo profesional  
 - Valoración personal de la experiencia  
+
+
+---
+
+![Logo VIEWNEXT](imagenes/logo-viewnext.png)  
+![Logo Instituto](imagenes/logo-instituto.png)
+
+![Logo VIEWNEXT](imagenes/logo-viewnext.png)  
+![Logo Instituto](imagenes/logo-instituto.png)
